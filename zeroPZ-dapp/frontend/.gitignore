@@ -71,3 +71,6 @@ package-lock.json
 yarn.lock
 
 templates/evm/core/pages/api
+
+git config --global user.name "zero"
+git config --global user.email gangshao823@gmail.com
